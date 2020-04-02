@@ -1,0 +1,18 @@
+[
+    {
+      "modid": "dispenserplanting",
+      "name": "Dispenser Planting Harvestcraft Addon",
+      "description": "Dispenser Planting for Harvestcraft seeds like Botania/Quark mod for vanilla seeds",
+      "version": "${version}",
+      "mcversion": "${mcversion}",
+      "url": "https://minecraft.curseforge.com/projects/dispenserplanting-harvestcraft",
+      "updateUrl": "https://minecraft.curseforge.com/projects/ModTweaker/files",
+      "authorList": [
+        "juliminecraft"
+      ],
+      "credits": "vazkii for creating Quark/Botania",
+      "logoFile": "",
+      "screenshots": [],
+      "dependencies": [harvestcraft]
+    }
+]
