@@ -6,8 +6,6 @@ import java.util.Map;
 import com.pam.harvestcraft.blocks.CropRegistry;
 import com.pam.harvestcraft.blocks.growables.BlockPamCrop;
 
-import org.apache.logging.log4j.Level;
-
 import net.minecraft.block.BlockDispenser;
 import net.minecraft.item.Item;
 import net.minecraftforge.fml.common.FMLLog;

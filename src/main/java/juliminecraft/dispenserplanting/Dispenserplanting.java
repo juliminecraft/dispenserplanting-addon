@@ -9,5 +9,6 @@ public class Dispenserplanting {
     @EventHandler
 	public void postInit(FMLPostInitializationEvent event) {
 		Harvestcraft.init();
+		ImmersiveEngineering.init();
 	}
 }

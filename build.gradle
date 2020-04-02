@@ -45,6 +45,7 @@ minecraft {
 
 dependencies {
     compile files("dependency/harvestcraft-1.12a.jar")
+    compile files("dependency/ImmersiveEngineering.jar")    
 }
 
 compileJava {
